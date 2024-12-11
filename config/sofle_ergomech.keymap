@@ -87,7 +87,7 @@
 &trans      &kp INS       &kp PSCRN     &kp K_CMENU   &trans        &trans        &kp PAGE_UP    &kp KP_NUMBER_7  &kp KP_N8        &kp KP_NUMBER_9  &kp KP_PLUS      &kp BACKSPACE
 &kp CAPS    &kp LALT      &kp LCTRL     &kp LSHFT     &trans        &trans        &kp PAGE_DOWN  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_ENTER     &kp DEL
 &trans      &kp LC(Z)     &kp LC(X)     &kp LC(C)     &kp LC(V)     &trans        &trans         &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_ENTER     &trans
-&trans      &trans        &trans        &trans        &trans        &trans        &trans         &trans           &kp KP_NUMBER_0  &kp KP_NUMBER_0  &kp KP_DOT
+&trans      &trans        &trans        &trans        &mo 3         &trans        &trans         &mo 3            &kp KP_NUMBER_0  &kp KP_NUMBER_0  &kp KP_DOT
                                                                                   &kp ENTER      &kp RIGHT        &kp UP_ARROW     &kp LEFT_ARROW   &kp DOWN
             >;
 
